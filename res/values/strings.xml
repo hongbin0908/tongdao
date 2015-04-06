@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tongdao</string>
+    <string name="create_mission">创建任务</string>
+
+        <item type="id" name="tag_first"></item>
+        <item type="id" name="tag_second"></item>
+    
+</resources>
